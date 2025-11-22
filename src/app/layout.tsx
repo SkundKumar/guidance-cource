@@ -24,11 +24,7 @@ export const metadata: Metadata = {
     maximumScale: 1,
     userScalable: false,
   },
-  icons: {
-    icon: '/icons/icon-512x512.png',
-    shortcut: '/icons/icon-512x512.png',
-    apple: '/icons/icon-512x512.png',
-  },
+ 
 }
 
 export default function RootLayout({
