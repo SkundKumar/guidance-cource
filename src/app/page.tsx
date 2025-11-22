@@ -74,7 +74,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                 className="text-xl font-bold text-neutral-600 dark:text-white "
               >
                 Why
-                <h2 className="text-6xl mb-5">500 ?</h2>
+                <h2 className="text-6xl mb-5">500 RS ?</h2>
               </CardItem>
               {/*card content first*/}
             
