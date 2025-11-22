@@ -1,6 +1,6 @@
 
 
-import Image from "next/image";
+
 import Navbar from "@/components/global/navbar";
 import { Button } from "@/components/ui/button";
 import { ContainerScroll } from "@/components/container-scroll-animation";
@@ -9,11 +9,10 @@ import { InfiniteMovingCards } from "@/components/global/infinite-moving-cards";
 import { HeroParallax } from "@/components/global/connect-parallax";
 import { LampComponent } from "@/components/global/lamp";
 import { CardBody, CardContainer, CardItem } from "@/components/global/3d-card";
-import {CheckIcon} from "lucide-react"
+
 import { Timeline } from "@/components/ui/timeline";
 import { TimelineDemo } from "@/components/global/TimelineDemo";
 
-import TargetCursor from "@/components/TargetCursor";
 
 export default function Home() {
 
@@ -208,20 +207,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
       </section>
       
       <TimelineDemo/>
-      
-     <section className="w-screen h-screen  flex items-center justify-center">
-              <div>
-      <TargetCursor 
-        spinDuration={2}
-        hideDefaultCursor={true}
-        parallaxOn={true}
-      />
-      
-      <h1 className="font-mono text-6xl">ARE YOU</h1>
-      <button className="cursor-target pl-10 pr-10 pt-5 pb-5 w-full mt-10 font-mono border-dashed border-2 rounded-xl border-purple-300 text-3xl"> <a href="">Ready?</a></button>
-      
-    </div>
-     </section>
+   
       
       
       
