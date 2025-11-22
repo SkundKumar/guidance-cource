@@ -9,14 +9,14 @@ import PWAInstallPrompt from '@/components/global/pwa-install-prompt'
 const font = DM_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'CPL 2.0',
-  description: 'Join Us At 103 BLA',
+  title: 'The Project',
+  description: 'The Front End Project',
   manifest: '/manifest.json',
   themeColor: '#000000',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
-    title: 'CPL 2.0',
+    title: 'Guidance',
   },
   viewport: {
     width: 'device-width',
@@ -43,7 +43,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#000000" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-        <meta name="apple-mobile-web-app-title" content="CPL 2.0" />
+        <meta name="apple-mobile-web-app-title" content="" />
         <link rel="apple-touch-icon" href="/icons/icon-512x512.png" />
       </head>
       <body className={font.className}>
@@ -56,7 +56,7 @@ export default function RootLayout({
           
             {children}
             
-            <PWAInstallPrompt />
+           
             
         </ThemeProvider>
       </body>

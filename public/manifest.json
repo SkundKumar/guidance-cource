@@ -1,7 +1,7 @@
 {
-  "name": "CPL 2.0",
-  "short_name": "CPL",
-  "description": "Join Us At 103 BLA",
+  "name": "The Project",
+  "short_name": "P",
+  "description": "",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
