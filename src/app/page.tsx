@@ -36,7 +36,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   className="p-8 mb-8 md:mb-0 text-2xl w-full sm:w-fit border-t-2 rounded-full border-[#4D4D4D] bg-[#1F1F1F] hover:bg-white group transition-all flex items-center justify-center gap-4 hover:shadow-xl hover:shadow-neutral-500 duration-500"
                 >
                   <span className="bg-clip-text text-transparent bg-gradient-to-r from-neutral-500 to-neutral-600  md:text-center font-sans group-hover:bg-gradient-to-r group-hover:from-black goup-hover:to-black">
-                     <a href="https://forms.office.com/r/FprYCMy6kw">Your New Circle Awaits</a>
+                     <a href="https://forms.gle/djFBX173Gz2YX3YD7">Your New Circle Awaits</a>
                   </span>
                 </Button>
                 <h1 className="text-5xl mb-2 md:text-8xl bg-clip-text text-transparent bg-gradient-to-b from-white to-neutral-600 font-sans font-bold ">
@@ -108,7 +108,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   as="button"
                   className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold"
                 >
-                  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=9NpbLPKP2Uu9VHxQqyGVkKMzhEmObmBIrP8JW3Y08npUQUhRV1FQUVlJTUUyQlpSSEVTSThJQjkyMS4u">Click For Queries</a>
+                  <a href="https://forms.gle/djFBX173Gz2YX3YD7">Click For Queries</a>
                 </CardItem>
               </div>
             </CardBody>
@@ -144,7 +144,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   as="button"
                   className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold"
                 >
-                 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=9NpbLPKP2Uu9VHxQqyGVkKMzhEmObmBIrP8JW3Y08npUQUhRV1FQUVlJTUUyQlpSSEVTSThJQjkyMS4u">Click For Queries</a>
+                 <a href="https://forms.gle/djFBX173Gz2YX3YD7">Click For Queries</a>
                 </CardItem>
               </div>
             </CardBody>
@@ -180,7 +180,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   as="button"
                   className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold"
                 >
-                  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=9NpbLPKP2Uu9VHxQqyGVkKMzhEmObmBIrP8JW3Y08npUQUhRV1FQUVlJTUUyQlpSSEVTSThJQjkyMS4u">Click For Queries</a>
+                  <a href="https://forms.gle/djFBX173Gz2YX3YD7">Click For Queries</a>
                 </CardItem>
               </div>
             </CardBody>
@@ -194,7 +194,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   className="p-8 mb-8 md:mb-0 text-2xl w-full sm:w-fit border-t-2 rounded-full border-[#4D4D4D] bg-[#1F1F1F] hover:bg-white group transition-all flex items-center justify-center gap-4 hover:shadow-xl hover:shadow-neutral-500 duration-500"
                 >
                   <span className="bg-clip-text text-transparent bg-gradient-to-r from-neutral-500 to-neutral-600  md:text-center font-sans group-hover:bg-gradient-to-r group-hover:from-black goup-hover:to-black">
-                    <a href="https://forms.office.com/r/FprYCMy6kw">Fill The Form</a> .
+                    <a href="https://forms.gle/djFBX173Gz2YX3YD7">Fill The Form</a> .
                   </span>
                 </Button>
 
