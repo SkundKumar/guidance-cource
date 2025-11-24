@@ -39,7 +39,7 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
     >
       <div className="max-w-7xl mx-auto py-10 px-4 md:px-8 lg:px-10">
         <h2 className="text-4xl font-bold md:text-7xl mt-32 text-black flex dark:text-white max-w-4xl">
-          CPL Timeline
+         The Project Timeline
         </h2>
         <p className="text-neutral-700 mt-5 dark:text-neutral-300 text-sm md:text-base max-w-sm">
         A timeline of boundaries, wickets, and wins
